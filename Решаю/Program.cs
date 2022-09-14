@@ -6,7 +6,7 @@ namespace Решаю
     {
         static void Main(string[] args)
         {
-            
+            ываыпык
         }
     }
 }
