@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Задание 1", "Задание 1\Задание 1.csproj", "{079CED63-423C-4455-B947-3DDC6EF1FA96}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Задание 2", "Задание 2\Задание 2.csproj", "{F38925FE-EF01-4401-82A6-C4CB5BB0E6C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Решаю", "Решаю\Решаю.csproj", "{C5C31925-8076-4E3B-A727-0F843028FADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{079CED63-423C-4455-B947-3DDC6EF1FA96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{079CED63-423C-4455-B947-3DDC6EF1FA96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{079CED63-423C-4455-B947-3DDC6EF1FA96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{079CED63-423C-4455-B947-3DDC6EF1FA96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F38925FE-EF01-4401-82A6-C4CB5BB0E6C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F38925FE-EF01-4401-82A6-C4CB5BB0E6C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F38925FE-EF01-4401-82A6-C4CB5BB0E6C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F38925FE-EF01-4401-82A6-C4CB5BB0E6C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5C31925-8076-4E3B-A727-0F843028FADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C31925-8076-4E3B-A727-0F843028FADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C31925-8076-4E3B-A727-0F843028FADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C31925-8076-4E3B-A727-0F843028FADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA0E7FEF-BB50-4DD3-9CD2-360024D90371}
+	EndGlobalSection
+EndGlobal
