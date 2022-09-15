@@ -6,7 +6,10 @@ namespace дз_задание_10
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Мир Труд Май");
+            Console.WriteLine("Мир");
+            Console.WriteLine("      Труд");
+            Console.WriteLine("             Май");
         }
     }
 }
